@@ -1,0 +1,69 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Python distribution
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# SQLite databases
+*.db
+*.sqlite3
+
+# Model files (optional - uncomment if very large)
+# *.pkl
+# *.pickle
+# *.joblib
+
+# Temporary files
+*.tmp
+*.temp
+
+# Cache directories
+.cache/
+.pytest_cache/
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# Jupyter runtime files
+.profile_default/
+.ipython/
+
+# CSV datasets (optional - uncomment if datasets are too large)
+# *.csv
+
+# Generated recommendation artifacts (optional)
+# similarity.pkl
+# movies_dict.pkl
